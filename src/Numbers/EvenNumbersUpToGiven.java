@@ -9,12 +9,12 @@ public class EvenNumbersUpToGiven {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter any number : ");
         int number = sc.nextInt();
-        int i;
+
         sc.close();
         System.out.println("Even number are : ");
 
 
-       for (i = 0; i <= number; i++ )
+       for (int i = 0; i <= number; i++ )
            if(i % 2 == 0 ){
                System.out.println(i);
            }
