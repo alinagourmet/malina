@@ -10,7 +10,7 @@ public class ReverseString {
         String string = input.nextLine(); input.close();
         String reverse = " ";
         // M A l I N A
-          //  0 1 2 3 4 5
+        // 0 1 2 3 4 5
         for (int i = string.length()-1; i >=0 ;i--){
             reverse = reverse + string.charAt(i);
         }
