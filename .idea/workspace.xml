@@ -6,14 +6,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9231232-df37-4a6c-b266-a2995c3f86b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Numbers/FibSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgoLeet/Solutions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgoLeet/Solutions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Numbers/EvenNumbersUpToGiven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Numbers/EvenNumbersUpToGiven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Numbers/IfPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Numbers/IfPrime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Strings/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings/ReverseString.java" afterDir="false" />
-    </list>
+    <list default="true" id="b9231232-df37-4a6c-b266-a2995c3f86b0" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -80,7 +73,7 @@
       <file leaf-file-name="FibSequence.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Numbers/FibSequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
+            <state relative-caret-position="480">
               <caret line="32" column="2" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
             </state>
           </provider>
@@ -315,9 +308,9 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38060606" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38060606" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32969698" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3272727" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3272727" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24171951" />
@@ -492,7 +485,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Numbers/FibSequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
+        <state relative-caret-position="480">
           <caret line="32" column="2" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
         </state>
       </provider>
