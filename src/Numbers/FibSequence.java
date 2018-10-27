@@ -21,7 +21,7 @@ public class FibSequence {
             System.out.println(sum_fib + " ");
         }
     }
-
+   //Fn =  Fn-1 + Fn-2 F5= F5-1 + F5-2
 
     /*public static  fibonacchi(n){
         if ( n == 0 ) return 0;

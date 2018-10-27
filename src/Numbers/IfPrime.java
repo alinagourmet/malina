@@ -1,13 +1,11 @@
 package Numbers;
 
-import java.util.Scanner;
-
 public class IfPrime {
 
     public static void main(String[] args) {
-        System.out.println("Enter any number :");
-        Scanner input = new Scanner(System.in);
-        int number = input.nextInt(); input.close();
+        //System.out.println("Enter any number :");
+        //Scanner input = new Scanner(System.in);
+        int number = 100;//input.nextInt(); input.close();
 
        for (int i = 2; i <=number; i++){
             boolean isPrime = true;
@@ -23,6 +21,7 @@ public class IfPrime {
             }
         }
     }
+
 }
 
 
